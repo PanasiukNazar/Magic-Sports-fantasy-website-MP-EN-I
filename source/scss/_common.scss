@@ -104,7 +104,7 @@ a:hover {
 }
 
 #preloader {
-    background: #fff;
+    background: #000 !important;
     height: 100%;
     left: 0;
     opacity: 1;
@@ -147,7 +147,7 @@ a:hover {
     width: 9px;
     height: 5px;
     border-radius: 5px;
-    background: #fff;
+    background: #000 !important;
     -webkit-animation: preloader 2s infinite ease-in-out;
     animation: preloader 2s infinite ease-in-out;
 }
@@ -204,7 +204,7 @@ a:hover {
         height: 5px;
         -webkit-transform: translateY(0);
         transform: translateY(0);
-        background: #fff;
+        background: #000 !important;
     }
     25% {
         height: 30px;
@@ -217,7 +217,7 @@ a:hover {
         height: 5px;
         -webkit-transform: translateY(0);
         transform: translateY(0);
-        background: #fff;
+        background: #000 !important;
     }
 }
 
@@ -249,7 +249,7 @@ a:hover {
 }
 
 .bg-gray {
-    background: #f9f9f9;
+    background: #000;
 }
 
 .header-bradcrumb {
@@ -274,7 +274,7 @@ a:hover {
     z-index: 1993;
     top: 90px;
     right: 0;
-    background-color: #fff;
+    background-color: #000;
     border-radius: 2px 0 0 2px;
     border: 1px solid rgba(0, 0, 0, 0.1);
     -webkit-transition: all 0.4s ease-in-out;
@@ -290,7 +290,7 @@ a:hover {
         height: 38px;
         z-index: 1992;
         display: block;
-        background-color: #fff;
+        background-color: #000;
         border-radius: 2px 0 0 2px;
         border: 1px solid rgba(0, 0, 0, 0.1);
         border-right: none;
@@ -335,7 +335,7 @@ a:hover {
     background-color: #ff432e;
 }
 .colors-switcher .colors-list a.blue {
-    background-color: #9f6b99ff;
+    background-color: #c5299bff;
 }
 .colors-switcher .colors-list a.light-blue {
     background-color: #69d2e7;

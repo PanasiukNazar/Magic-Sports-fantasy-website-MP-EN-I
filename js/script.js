@@ -33,7 +33,7 @@
     $('.hero-slider').slick({
         autoplay: true,
         infinite: true,
-        arrows: true,
+        arrows: false,
         prevArrow: "<button type='button' class='prevArrow'></button>",
         nextArrow: "<button type='button' class='nextArrow'></button>",
         dots: false,
